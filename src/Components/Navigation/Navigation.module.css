@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    height: 80px;
+    padding: 2px 43px;
+    justify-content: space-between;
+    background-color:  #fefcf5;
+    /* z-index: 1; */
+}
+
+
+.list_items{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    gap: 38px;
+    /* display: inline-block; */
+}

@@ -1,0 +1,12 @@
+.list_item{
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+    font-size: 18px;
+    /* font-size: 12px; */
+    /* padding: 6px 2px; */
+
+} 
+.list_item:hover{
+    color: black;
+}
